@@ -1,0 +1,5 @@
+{
+  "type": "feature",
+  "description": "Add title support to JSON Schema oneOf enum strategy and allow @title trait on enum/intEnum members",
+  "pull_requests": []
+}
