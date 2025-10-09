@@ -8,7 +8,9 @@ structure Foo {
 
 @documentation("This is a test enum")
 enum TestEnum {
+    @title("Foo Title")
     @documentation("it really does foo")
     FOO = "Foo"
+    @title("Bar Title")
     BAR = "Bar"
 }

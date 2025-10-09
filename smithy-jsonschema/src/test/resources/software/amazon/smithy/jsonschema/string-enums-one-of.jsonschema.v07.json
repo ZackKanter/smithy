@@ -14,10 +14,12 @@
       "oneOf": [
         {
           "const": "Foo",
+          "title": "Foo Title",
           "description": "it really does foo"
         },
         {
-          "const": "Bar"
+          "const": "Bar",
+          "title": "Bar Title"
         }
       ]
     }
